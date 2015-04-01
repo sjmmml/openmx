@@ -1,5 +1,12 @@
 ## OpenMX
 
+Befor Install OpenMX
+
+1. install gfortran
+2. install openmpi
+3. install fftw
+4. install lapack, blas
+
 [OpenMX Download](http://www.openmx-square.org/download.html)
 ```
 $ cd
