@@ -4,7 +4,10 @@
 $ git clone https://github.com/sjmmml/openmx.git
 ```
 
-## gfortran
+1. install gfortran
+2. install openmpi
+3. install fftw
+4. install lapack, blas
 
 ## MPICH 
 
